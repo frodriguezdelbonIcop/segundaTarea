@@ -101,6 +101,7 @@ public class Ejercicio2 {
 		System.out.println("Estadisticas Jugador 1: Saldo restante: "+Sjugador1+" Tiradas restantes: "+Tjugador1+" última apuestA: "+Gsaldo1);
 		System.out.println("Estadisticas Jugador 2: Saldo restante: "+Sjugador2+" Tiradas restantes: "+Tjugador2+" última apuestA: "+Gsaldo2);
 		System.out.println("La incognita era: "+incognita);
+		System.out.println("El premio total es: "+pozo);
 
 	}
 	
